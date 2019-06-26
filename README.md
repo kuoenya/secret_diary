@@ -1,7 +1,7 @@
 # secret_diary
 
 
-Q : WHY注解掉 就不會有  Notice
+注解掉 就不會有  Notice
 <!-- <?php include_once "auth.php" ?>
 	 <?php include_once	"updatediary.php" ?> -->  
 	 
@@ -18,7 +18,6 @@ Q : WHY注解掉 就不會有  Notice
 
  keyup()  
  
- 
 
 5/ 登出  
 
@@ -26,5 +25,5 @@ Q : WHY注解掉 就不會有  Notice
 	session_destroy($_SESSION['id']);
 }  
 
-要消滅session  !!
+清除session !
 
