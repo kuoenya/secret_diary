@@ -25,5 +25,8 @@
 	session_destroy($_SESSION['id']);
 }  
 
-清除session !
-
+清除session !  
+  
+   
+![image](https://github.com/kuoenya/secret_diary/blob/master/signup.png) 
+  
