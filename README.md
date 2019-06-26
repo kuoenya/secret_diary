@@ -8,6 +8,7 @@ Q : WHY注解掉 就不會有  Notice
 
 1/ connection.php設定好
 2/ create files !
+![image](https://github.com/kuoenya/secret_diary/blob/master/secret_file_list.png)
 
 
 
