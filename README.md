@@ -1,4 +1,8 @@
-# secret_diary
+# secret_diary  
+  
+    
+![image](https://github.com/kuoenya/secret_diary/blob/master/signup.png) 
+
 
 
 注解掉 就不會有  Notice
@@ -27,6 +31,6 @@
 
 清除session !  
   
-   
-![image](https://github.com/kuoenya/secret_diary/blob/master/signup.png) 
+![image](https://github.com/kuoenya/secret_diary/blob/master/mainpage.png)
+
   
